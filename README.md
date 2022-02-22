@@ -1,4 +1,4 @@
-![wallet](![image](https://user-images.githubusercontent.com/90667844/155042601-e0eaea3d-f545-4038-a0ae-78173b162d7a.png)
+![image](https://user-images.githubusercontent.com/90667844/155042601-e0eaea3d-f545-4038-a0ae-78173b162d7a.png)
 
 # fintech_finder
 ### A web application that customers can use to find fintech professionals from a list of candidates, hire them, and pay them.
