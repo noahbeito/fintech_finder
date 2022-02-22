@@ -46,9 +46,7 @@ from web3.gas_strategies.time_based import medium_gas_price_strategy
 ---
 
 ## Usage
-1.a. In the terminal, navigate to the folder where you've cloned the repository.
-
-1.b. Create a Ganache account. Use the "Quickstart" option to generate a mnemonic seed phrase. Create a .env file in the repository and add the seed phrase.
+1. In the terminal, navigate to the folder where you've cloned the repository. Create a Ganache account. Use the "Quickstart" option to generate a mnemonic seed phrase. Create a .env file in the repository and add the seed phrase.
 
 2. In the terminal, run the Streamlit application by using `streamlit run fintech_finder.py`.
 
