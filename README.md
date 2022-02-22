@@ -59,10 +59,10 @@ from web3.gas_strategies.time_based import medium_gas_price_strategy
 
 4. Inspect the successfull transactions in Ganache: 
 
-  a. Address, balance, and transaction (TX) count:
+Address, balance, and transaction (TX) count:
 ![image](https://user-images.githubusercontent.com/90667844/155033128-241622a7-93ab-4262-988c-c05a872ff49f.png)
 
-  b. Transaction details:
+Transaction details:
 ![image](https://user-images.githubusercontent.com/90667844/155039954-6337e0a4-923e-4969-9218-e4a9f08ed412.png)
 ---
 
