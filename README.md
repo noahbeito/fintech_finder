@@ -2,6 +2,7 @@
 
 # fintech_finder
 ### A web application that customers can use to find fintech professionals from a list of candidates, hire them, and pay them.
+---
 
 ## Technologies
 This analysis leverages python 3.7 with the following packages and libraries:
@@ -52,6 +53,9 @@ from web3.gas_strategies.time_based import medium_gas_price_strategy
 2. In the terminal, run the Streamlit application by using `streamlit run fintech_finder.py`.
 
 3. In the Sidebar of the web application, select the person you would like to hire and for how many hours. Then click the "Send Transaction" button to send the payment. A successfull payment will show a "Validated Transaction Hash." 
+
+![image](https://user-images.githubusercontent.com/90667844/155042949-8aa38d7c-3764-4061-b984-b276f87c7ea8.png)
+
 
 4. Inspect the successfull transactions in Ganache: 
 
